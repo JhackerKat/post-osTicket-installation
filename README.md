@@ -31,7 +31,7 @@ Admin Panel -> Agents -> Departments
 • SysAdmins
 
 - Configure Teams
-dmin Panel -> Agents -> Teams (Pull Agents from different Departments)
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 • Online Banking
 
 - Allow anyone to create tickets
